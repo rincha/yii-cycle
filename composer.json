@@ -1,5 +1,5 @@
 {
-    "name": "yiisoft/yii-cycle",
+    "name": "rincha/yii-cycle",
     "type": "library",
     "description": "Cycle ORM v2 support",
     "keywords": [
